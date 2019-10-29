@@ -264,3 +264,6 @@ D:\Programme\Unity\Game\TheOtherGame\obj\Debug\Assembly-CSharp.csprojAssemblyRef
 D:\Programme\Unity\Game\TheOtherGame\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 D:\Programme\Unity\Game\TheOtherGame\obj\Debug\Assembly-CSharp.dll
 D:\Programme\Unity\Game\TheOtherGame\obj\Debug\Assembly-CSharp.pdb
+C:\Users\kickt\Desktop\Temp\TheOtherGame\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\kickt\Desktop\Temp\TheOtherGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\kickt\Desktop\Temp\TheOtherGame\obj\Debug\Assembly-CSharp.pdb
