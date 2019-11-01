@@ -37,15 +37,15 @@ public class CameraController : MonoBehaviour
     private void HandleInput()
     {
         Vector3 movement = new Vector3();
-        // Rotate around the player
+        // TODO Rotate around the player
         if (Input.GetKey("q"))
         {
-            
+
         }
         if (Input.GetKey("e"))
         {
-            
-           
+
+
         }
 
 
